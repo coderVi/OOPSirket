@@ -26,7 +26,7 @@ Projeye katkı sağlamak için:
 
 ## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans](LICENSE) dosyasına bakabilirsiniz.
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans](LICENSE.txt) dosyasına bakabilirsiniz.
 
 ## Yazarlar
 
@@ -60,7 +60,7 @@ To contribute to the project:
 
 ## License
 
-This project is licensed under the MIT License. For more information, please refer to the [License](LICENSE) file.
+This project is licensed under the MIT License. For more information, please refer to the [License](LICENSE.txt) file.
 
 ## Authors
 
